@@ -1,16 +1,30 @@
-# cofee_app
+# ☕ Coffee App
 
-A new Flutter project.
+A clean and minimal coffee shop UI built using Flutter.
 
-## Getting Started
+## 📸 Screenshots
 
-This project is a starting point for a Flutter application.
+<p float="left">
+  <img src="screenshots/Screenshot_1753003085.png" width="250"/>
+  <img src="screenshots/Screenshot_1753003102.png" width="250"/>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🧾 Product list with beautiful coffee cards  
+- 📱 Responsive and modern UI  
+- 🔄 Smooth navigation between screens  
+- ⚙️ Built completely with Flutter & Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Dependencies
+
+- `flutter`
+- `cupertino_icons`
+
+## 🚀 Getting Started
+
+To run the project locally, follow these steps:
+
+```bash
+flutter pub get
+flutter run
