@@ -2,12 +2,15 @@
 
 A clean and minimal coffee shop UI built using Flutter.
 
+---
+
 ## 📸 Screenshots
 
-<p float="left">
-  <img src="screenshots/Screenshot_1753003085.png" width="250"/>
-  <img src="screenshots/Screenshot_1753003102.png" width="250"/>
-</p>
+| Home Screen | Details Screen |
+|-------------|----------------|
+| ![Home Screen](screenshots/home_screen.png) | ![Details Screen](screenshots/details_screen.png) |
+
+---
 
 ## ✨ Features
 
@@ -16,10 +19,14 @@ A clean and minimal coffee shop UI built using Flutter.
 - 🔄 Smooth navigation between screens  
 - ⚙️ Built completely with Flutter & Dart
 
+---
+
 ## 📦 Dependencies
 
 - `flutter`
 - `cupertino_icons`
+
+---
 
 ## 🚀 Getting Started
 
